@@ -10,7 +10,7 @@ Links
   https://drive.google.com/file/d/1rTqW02ieh7PfYugO6fweb-oUQYHOA8mB/view
 </p>
 <hr>
-<h2>Laboratório de Software</h2>
+<h2>Gestão de Startup III</h2>
 <p>
   Identificando dores do consumidor<br>
   https://professormurara.wordpress.com/2012/10/09/empreendedorismo-necessidade-desejo-e-demanda/
