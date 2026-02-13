@@ -9,3 +9,14 @@ Links
    Fases de desenvolvimento de projeto<br>
   https://drive.google.com/file/d/1rTqW02ieh7PfYugO6fweb-oUQYHOA8mB/view
 </p>
+<hr>
+<h2>Laboratório de Software</h2>
+<p>
+  Identificando dores do consumidor<br>
+  https://professormurara.wordpress.com/2012/10/09/empreendedorismo-necessidade-desejo-e-demanda/
+</p>
+<p>
+  Persona e Mapa e Empatia<br>
+  https://pingback.com/br/resources/personas/<br>
+  https://docs.google.com/presentation/d/1aNDBSRrqZSwz3Uw6BQQ0tPVadh3bM2SCNw2SNVb_LX4/edit
+</p>
