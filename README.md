@@ -9,6 +9,10 @@ Links
    Fases de desenvolvimento de projeto<br>
   https://drive.google.com/file/d/1rTqW02ieh7PfYugO6fweb-oUQYHOA8mB/view
 </p>
+<p>
+  Conhecendo o projeto a ser desenvolvido<br>
+  https://drive.google.com/file/d/12OOQRXyfQ7H8AZ0au15pE1VEpcbYYkiQ/view
+</p>
 <hr>
 <h2>Gestão de Startup III</h2>
 <p>
