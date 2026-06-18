@@ -2,8 +2,12 @@
 Links
 <h2>AVATEC</h2>
 <p>
-  Submissão de projetos referente às disciplinas de Laboratório de Software e Gestão de Startup III<br>
-  <a href=''>Clique aqui para acessar o formulário</a>
+  Submissão de projetos referente à disciplina de Laboratório de Software<br>
+  <a href='https://forms.gle/4Tgg6sHG9abEWQGQ6'>Clique aqui para acessar o formulário</a>
+</p>
+<p>
+  Submissão de projetos referente à disciplina de Gestão de Startup III<br>
+  <a href='https://forms.gle/Grq8W4FmH1rX2fF46'>Clique aqui para acessar o formulário</a>
 </p>
 <h2>Estágio 2026</h2>
 <p>
