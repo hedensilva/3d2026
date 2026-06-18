@@ -1,5 +1,10 @@
 # 3d2026
 Links
+<h2>AVATEC</h2>
+<p>
+  Submissão de projetos referente às disciplinas de Laboratório de Software e Gestão de Startup III<br>
+  <a href='https://forms.gle/V5tjTXp6vZVKRPNU7'>Clique aqui para acessar o formulário</a>
+</p>
 <h2>Estágio 2026</h2>
 <p>
   Formulário - Perfil Profissional e Preferência de Lotação<br>
